@@ -1,0 +1,30 @@
+*{
+    font-family: Roboto;
+}
+.upper{
+    display:flex;
+    font-size: 3rem;
+    width: 100%;
+    color: black;
+    height: 4rem;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 0;
+}
+
+.lower{
+    display: flex;
+    margin-left: 25%;
+    width: 50%;
+    font-size: 1rem;
+    color: grey;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.heroes-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:3rem;
+}

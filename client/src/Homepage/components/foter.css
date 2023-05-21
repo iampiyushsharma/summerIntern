@@ -1,0 +1,13 @@
+.first{
+display: flex;
+flex-direction: row;
+justify-content: space-around
+}
+.two{
+    display: flex;
+    flex-direction: row;
+}
+.second{
+    display: flex;
+    justify-content: center;
+}

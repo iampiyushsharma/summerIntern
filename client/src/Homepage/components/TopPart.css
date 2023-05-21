@@ -1,0 +1,67 @@
+.img{
+    background-image: url(Images/main.jpeg);
+    opacity: 1;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: 100% 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    z-index: -1000;
+    
+    margin-top: 0;
+    margin-left: 0;
+    top: 0px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.body{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    z-index: 1000;
+}
+.bg{
+    height: 40rem;
+    width: 100%;
+    color: rgb(255, 255, 255); /* Set the desired text color */
+    font-size: 24px; /* Set the desired font size */
+    font-weight: bold;
+    z-index: 1000;
+    
+}
+
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 10%;
+}
+
+.header.logo{
+    align-items: left;
+}
+
+.header.nav{
+    align-items: right;
+    justify-content: space-around;
+}
+
+.body.p{
+    z-index: 1000;
+    padding: 100rem;
+}
+.card-div{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+    top: -9rem;
+}
+.containers{
+    height: 12rem;
+}
