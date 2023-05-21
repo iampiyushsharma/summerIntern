@@ -18,7 +18,7 @@ const TopPart = () => {
 
       <div className = "header">
 
-        <Link to='/' style={{ textDecoration: 'none', color:'white' }}>WORKFLOW</Link>
+        <Link to='/' style={{ textDecoration: 'none', color:'white' }}>WORKFLOWww</Link>
 
         <div className="nav">
         <Link to='/videocall' style={{ textDecoration: 'none', color:'white' }}>Profile</Link>
