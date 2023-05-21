@@ -6,7 +6,7 @@ import VideoCall from './VideoCall/VideoCall';
 import Discuss from './Discuss/Discuss';
 import Fun from './Fun/Fun';
 import Design from './Designing/Design'
-import Management from './management/Management';
+import Management from './Management/Management';
 
 function App() {
   return (
