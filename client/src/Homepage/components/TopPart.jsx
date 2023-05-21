@@ -3,7 +3,7 @@ import "./TopPart.css"
 import { Link } from "react-router-dom";
 
 import Card from './Card';
-import fun from './Images/fun.jpeg'
+import fun from './Images/Fun.jpeg'
 import doubt from './Images/doubt.jpeg'
 import management from './Images/management.jpeg'
 import './Card.css'
