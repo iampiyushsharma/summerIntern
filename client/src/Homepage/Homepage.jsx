@@ -1,4 +1,4 @@
-import React from 'react'
+
 import MiddlePart from './components/MiddlePart'
 import Heroes from './components/Heroes'
 import TopPart from './components/TopPart'
