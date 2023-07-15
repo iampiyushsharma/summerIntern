@@ -19,22 +19,22 @@ const Heroes = () => {
                 
             <HeroCard 
               logo={h1}
-              name='Piyush'
+              name='Ghanshyam'
               work='something'
             />
             <HeroCard 
               logo={h2}
-              name='piyush'
+              name='Nihar'
               work='something'
             />
             <HeroCard 
               logo={h3}
-              name='piyush'
+              name='Piyush'
               work='something'
             />
             <HeroCard 
               logo={h4}
-              name='piyush'
+              name='Smruti'
               work='something'
             />
             </div>

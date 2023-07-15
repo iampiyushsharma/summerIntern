@@ -8,11 +8,13 @@ import Footer from './components/Footer'
 const Homepage = () => {
   return (
     <>
+
       <TopPart />
       <MiddlePart />
       <Heroes />
       <Build />
       <Footer />
+
     </>
   )
 }

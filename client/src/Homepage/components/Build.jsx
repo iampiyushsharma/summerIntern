@@ -1,9 +1,9 @@
-import React from 'react'
+
 import './build.css'
 const Build = () => {
   return (
       <>
-        <div className="content">
+        <div className="content-build">
           <div className="heading-now">Build something</div>
           <div className="para">Put the potentially record low maximum sea ice extent tihs year down to low ice. According to the National Oceanic and Atmospheric Administration, Ted, Scambos.</div>
         </div>

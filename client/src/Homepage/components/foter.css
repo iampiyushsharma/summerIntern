@@ -1,13 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@400;600;700&family=Inter:wght@400;600;700&display=swap');
+*{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-family: 'Inter', sans-serif;
+}
+.whole{
+    background-color: #edf6f9;
+    padding-top: 2.5rem;
+   
+}
 .first{
 display: flex;
 flex-direction: row;
-justify-content: space-around
+justify-content: space-around;
+padding-bottom: 1.3rem;
+}
+.one{
+   margin-right: 7rem;
+}
+.one .un{
+font-size: 1.5rem;
+padding-bottom: 0.7rem;
+font-weight: bold;
+}
+.num{
+    padding-bottom: 1.1rem;
+}
+.tres{
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    margin-right: 3rem;
+
+}
+.res{
+
+}
+.res ul{
+    font-weight: none;
 }
 .two{
     display: flex;
     flex-direction: row;
+    margin-right:6rem;
+  
 }
 .second{
     display: flex;
     justify-content: center;
+    padding-bottom: 2rem;
+}
+.little-social{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
 }

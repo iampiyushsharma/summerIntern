@@ -8,7 +8,7 @@ const MiddlePart = () => {
     <>
         <div className="container">
         <div className="left">
-            <div className='title' >
+            <div className='title-this' >
                 <FaUserFriends />
                 <h1>Working with us is a pleasure</h1>
                 <p>Don't let your uses guess by attaching tooltips and popoves to any element. Just make sure you enable them first via JavaScript.
